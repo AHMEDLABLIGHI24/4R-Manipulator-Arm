@@ -1,6 +1,7 @@
 # 4R-Manipulator-Arm
 The 4R robotic manipulator arm is a mechanical system with four rotational joints (4 Degrees of Freedom) designed for performing precise positioning and manipulation tasks. This project focuses on the design, modeling, and simulation of the manipulator using CAD software and mathematical modeling tools. It serves as a platform for learning about robotics, kinematics, dynamics, and control systems.
-![description of image](support/mise en plan/mecha.png)
+![description of image](support/mise%20en%20plan/mecha.png)
+
 # Features & Design
 Mechanical Structure:
 
