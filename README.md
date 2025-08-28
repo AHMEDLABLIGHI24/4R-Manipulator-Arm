@@ -97,15 +97,11 @@ roslaunch moveit_robot_arm_sim demo.launch
 ---
 
 ## 📊 Results
-
-### Workspace Simulation
-![Workspace](support/simulations/workspace.png)
-
 ### Robot Simulation in MATLAB
-![MATLAB Sim](support/simulations/matlab_sim.png)
+![MATLAB Sim](support/Robot4DoF-MatlabFile/Robot4DoF-MatlabFile/interface-cont.png)
 
-### ROS/Gazebo Simulation
-![Gazebo](support/simulations/gazebo_sim.png)
+### ROS/MoveIt Simulation
+![Moveit](support/URDF/roos/R3.png)
 
 ---
 
